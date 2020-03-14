@@ -10,13 +10,14 @@ tags:                               #标签
     - blog经验
 ---
 
-## 5分钟为你的博客快速集成评论功能
--
->📑。  
+## 为博客快速集成评论功能
+
+> 引用Gitalk评论插件📑
 
 &emsp;参考了🖥[插入gitalk教程](https://blog.csdn.net/weiwosuoai/article/details/90573929)   
-&emsp;只需更改'''_config.yml''' 里面的参数，gitalk的主要参数'''clientID'''和'''clientSecret'''等等。
-&emsp;'''
+&emsp;只需更改*_config.yml*里面的参数，gitalk的主要参数*clientID*和*clientSecret*等等。
+&emsp; 
+       '''
 		clientID: `Github Application clientID`,
 		clientSecret: `Github Application clientSecret`,
 		repo: `存储你评论 issue 的 Github 仓库名`,
